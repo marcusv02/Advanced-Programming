@@ -1,0 +1,13 @@
+﻿  Assessment 1 CMP2801 Marcus Valerio.cpp
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Savings.h(40,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Savings.h(45,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(107,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(145,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(194,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(201,40): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(278,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(279,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(285,52): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(300,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio\Assessment 1 CMP2801 Marcus Valerio.cpp(338,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assessment 1 CMP2801 Marcus Valerio.vcxproj -> C:\Users\JScho\source\repos\Assessment 1 CMP2801 Marcus Valerio\Debug\Assessment 1 CMP2801 Marcus Valerio.exe
